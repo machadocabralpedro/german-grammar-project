@@ -4062,8 +4062,9 @@ input[type="button"].btn-block {
 }
 
 .nav-link {
-  display: block;
+  display: flex;
   padding: 0.5rem 1rem;
+  
 }
 
 .nav-link:hover, .nav-link:focus {
@@ -4082,6 +4083,7 @@ input[type="button"].btn-block {
 
 .nav-tabs .nav-item {
   margin-bottom: -1px;
+  color: #000;
 }
 
 .nav-tabs .nav-link {
